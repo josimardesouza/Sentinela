@@ -1,4 +1,4 @@
 <?php
 
-echo "Olá mundo dos macacos!";
+echo "Olá mundo!";
 
